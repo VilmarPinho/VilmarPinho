@@ -1,8 +1,10 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/VilmarPinho/VilmarPinho/main/pm.jpg" />
-&nbsp;&nbsp;&nbsp;
 
-<p align="center"><strong>The best way to predict the future is to create it.</strong> "Peter Drucker"
-  
+<div>
+  <img width="30%" class="image" src="https://github.com/VilmarPinho/VilmarPinho/blob/main/PM.jpg" alt="Imagem">
+  <p class="text"><strong>The best way to predict the future is to create it.</strong> "Peter Drucker"</p>
+
+</div>
+
 <br><br>IT Project Manager with over 17 years of experience in software development projects, infrastructure, and SAP, I have developed a strong foundation in project management. I possess solid knowledge of methodologies such as PMI, Scrum, and Kanban, ensuring successful project delivery.
 
 My expertise extends to programming, requirements gathering, scope definition, and time management. I have hands-on experience with Azure, GCP, and AWS, as well as Oracle Database, Power Automate, MS SQL Server, Visual Basic, C#, and .NET.
@@ -15,6 +17,7 @@ My areas of expertise include integrated systems, SAP ERP (FI/CO, MM, PI, BW, B1
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=VilmarPinho&theme=radical&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-git-main-VilmarPinho.vercel.app/api/top-langs/?username=VilmarPinho&show_icons=true&theme=radical&layout=compact" />
+<img width="40%" align="center" src="https://camo.githubusercontent.com/e81f944663bc823267b26d99e0707be972e081cfe8b6b9236358445c1cc12000/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d61696e2d72616661656c616c6578616e6472696e6f2e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72616661656c616c6578616e6472696e6f2673686f775f69636f6e733d74727565267468656d653d7261646963616c266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats-git-main-VilmarPinho.vercel.app/api/top-langs/?username=VilmarPinho&amp;show_icons=true&amp;theme=radical&amp;layout=compact" style="max-width: 100%;">
 </div>
  
  &nbsp;
